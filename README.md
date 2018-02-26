@@ -1,5 +1,7 @@
 # hello-world
 Just another repository
+
 Hi over there!
 
-Kblpmblcka here, which means an ant in my mother tongue, as simple as that.
+Kblpmblcka here, name of an ant, which is written in my mother tongue using by english letters. 
+As simple as that.
